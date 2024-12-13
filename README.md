@@ -1,13 +1,8 @@
-**COM S 319 Final Project Documentation**  
 **Academic-Navigator**
 
 **Team Members**  
 Haad Cheema ([haad736@iastate.edu](mailto:haad736@iastate.edu))  
 Dhairya Kachalia ([dhairyak@iastate.edu](mailto:dhairyak668@gmail.com))
-
-**Course Information**  
-Course number: COMS 319   
-Professor: Dr. Abraham N Aldaco Gastelum,
 
 **Academic-Navigator**  
 **Index**
